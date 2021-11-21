@@ -6,8 +6,8 @@ chapter = true
 pre = "<b>5. </b>"
 +++
 
-### Conclusion
+### Chapter 5
 
-# Some Chapter title
+# Conclusion
 
-Lorem Ipsum.
+This is end of the course

@@ -1,0 +1,5 @@
+baseURL = 'https://riyadhuddin.github.io/intro2py/'
+languageCode = 'en-us'
+title = 'Introduction to python with Bangladesh Liberation War'
+theme = "hugo-theme-learn"
+uglyurls = true

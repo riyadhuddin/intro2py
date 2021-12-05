@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="intro2twitterAPI" />
+    <orderEntry type="module" module-name="numeraiComp" />
   </component>
 </module>

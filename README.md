@@ -11,3 +11,6 @@ https://brianmacdonald.github.io/Ethonate/address#0x67511559FB1A76682C18d6db9489
 </br>[![Paypal Scan or Click to donate](https://github.com/riyadhuddin/intro2py/blob/9dce10bbf05f08a88c1874946fd8584d4d59c252/icons/paypal-784404_640.png)](https://www.paypal.com/donate?hosted_button_id=YW5S7PD8A4AV4)
 </br><p> Paypal Scan or Click to donate </p>[![Riyadh Uddin](https://github.com/riyadhuddin/intro2py/blob/d210ff5576397cf5d38eef875470a5943509e31c/icons/QR%20Code.png)](https://www.paypal.com/donate?hosted_button_id=YW5S7PD8A4AV4)
 </br>
+#
+Join Digital Ocean today and get $100 in credit
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=40de8412fc2d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)

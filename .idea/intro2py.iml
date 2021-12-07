@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="intro2twitterAPI" />
     <orderEntry type="module" module-name="numeraiComp" />
+    <orderEntry type="module" module-name="bengaliGAN" />
   </component>
 </module>

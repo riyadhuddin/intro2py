@@ -9,5 +9,3 @@ pre = "<b>5. </b>"
 ### Chapter 5
 
 # Conclusion
-
-This is end of the course

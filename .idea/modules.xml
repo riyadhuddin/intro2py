@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../python/bengaliGAN/.idea/bengaliGAN.iml" filepath="$PROJECT_DIR$/../../../python/bengaliGAN/.idea/bengaliGAN.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/intro2py.iml" filepath="$PROJECT_DIR$/.idea/intro2py.iml" />
       <module fileurl="file://$PROJECT_DIR$/../intro2twitterAPI/.idea/intro2twitterAPI.iml" filepath="$PROJECT_DIR$/../intro2twitterAPI/.idea/intro2twitterAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../python/NumerAI/numeraiComp/.idea/numeraiComp.iml" filepath="$PROJECT_DIR$/../../../python/NumerAI/numeraiComp/.idea/numeraiComp.iml" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intro to python basics on Introduction to python with Bangladesh Liberation War</title>
-    <link>https://iacdrops.xyz/10_introduction.html</link>
-    <description>Recent content in Intro to python basics on Introduction to python with Bangladesh Liberation War</description>
+    <title>Intro to python basics on IaCdrops | Infastructure as Code service and development Agency</title>
+    <link>http://iacdrops.xyz/10_introduction/</link>
+    <description>Recent content in Intro to python basics on IaCdrops | Infastructure as Code service and development Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 03:50:13 +0600</lastBuildDate><atom:link href="https://iacdrops.xyz/10_introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 03:50:13 +0600</lastBuildDate><atom:link href="http://iacdrops.xyz/10_introduction/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/intro2py.iml" filepath="$PROJECT_DIR$/.idea/intro2py.iml" />
       <module fileurl="file://$PROJECT_DIR$/../intro2twitterAPI/.idea/intro2twitterAPI.iml" filepath="$PROJECT_DIR$/../intro2twitterAPI/.idea/intro2twitterAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../python/NumerAI/numeraiComp/.idea/numeraiComp.iml" filepath="$PROJECT_DIR$/../../../python/NumerAI/numeraiComp/.idea/numeraiComp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../python/plant_disease/.idea/plant_disease.iml" filepath="$PROJECT_DIR$/../../../python/plant_disease/.idea/plant_disease.iml" />
     </modules>
   </component>
 </project>

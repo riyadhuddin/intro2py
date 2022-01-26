@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="intro2twitterAPI" />
     <orderEntry type="module" module-name="numeraiComp" />
     <orderEntry type="module" module-name="bengaliGAN" />
+    <orderEntry type="module" module-name="plant_disease" />
   </component>
 </module>
